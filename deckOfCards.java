@@ -1,5 +1,5 @@
 /*****************************************************************************
- * progamNineHomeworkFINAL.java
+ * deckOfCards.java
  * @author Lily Zimmermann
  * 
  * Semester: Fall 2021
@@ -17,7 +17,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class progamNineHomeworkFINAL
+public class deckOfCards
 {
 	public static void main (String [] args)
 	{
