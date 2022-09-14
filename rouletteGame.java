@@ -1,5 +1,5 @@
 /*****************************************************************************
- * programEightVersionOne.java
+ * rouletteGame.java
  * @author Lily Zimmermann
  * 
  * Semester: Fall 2021
@@ -9,7 +9,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class programEightVersionOne 
+public class rouletteGame
 {
 	public static void main (String [] args)
 	{
